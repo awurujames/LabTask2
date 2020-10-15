@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\obj\Debug\netcoreapp3.1\MyDate.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\obj\Debug\netcoreapp3.1\MyDate.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\obj\Debug\netcoreapp3.1\MyDate.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\bin\Debug\netcoreapp3.1\MyDate.exe
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\bin\Debug\netcoreapp3.1\MyDate.deps.json
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\bin\Debug\netcoreapp3.1\MyDate.runtimeconfig.json
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\bin\Debug\netcoreapp3.1\MyDate.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\bin\Debug\netcoreapp3.1\MyDate.dll
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\bin\Debug\netcoreapp3.1\MyDate.pdb
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\obj\Debug\netcoreapp3.1\MyDate.dll
+C:\codebitacademyfolder\C#\Lab Task 2\Mydate\obj\Debug\netcoreapp3.1\MyDate.pdb

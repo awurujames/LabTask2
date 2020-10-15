@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\obj\Debug\netcoreapp3.1\MyInvoice.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\obj\Debug\netcoreapp3.1\MyInvoice.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\obj\Debug\netcoreapp3.1\MyInvoice.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\bin\Debug\netcoreapp3.1\MyInvoice.exe
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\bin\Debug\netcoreapp3.1\MyInvoice.deps.json
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\bin\Debug\netcoreapp3.1\MyInvoice.runtimeconfig.json
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\bin\Debug\netcoreapp3.1\MyInvoice.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\bin\Debug\netcoreapp3.1\MyInvoice.dll
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\bin\Debug\netcoreapp3.1\MyInvoice.pdb
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\obj\Debug\netcoreapp3.1\MyInvoice.dll
+C:\codebitacademyfolder\C#\Lab Task 2\myinvoice\obj\Debug\netcoreapp3.1\MyInvoice.pdb
